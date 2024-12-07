@@ -1,1 +1,1 @@
-# face_recognition_flask
+# Face recognition based attendence system
